@@ -1,4 +1,4 @@
-#Volatility Smile Analysis
+Volatility Smile Analysis
 
 Empirical analysis of implied volatility patterns in DAX options and warrants traded on EUREX and EUWAX.
 
